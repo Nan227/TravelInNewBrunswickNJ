@@ -1,1 +1,55 @@
-# TravelInNewBrunswickNJ
+# Web Development Project 1 - *Thing to do in Rutgers University*
+
+Submitted by: **Piyaporn Puangprasert**
+
+This web app: **This app displays some popular places around Rutgers University**
+
+Time spent: **4** hours spent in total
+
+## Required Features
+
+The following **required** functionality is completed:
+
+- [x] **There is a unique theme for events or resources relevant to a specific community**
+- [x] **At least 10 unique resources or events are displayed in a responsive card format**
+
+The following **optional** features are implemented:
+
+- [x] Buttons or links to a related resources are on each card component
+- [x] The site is responsive for both desktop and mobile formats
+
+The following **additional** features are implemented:
+
+* [x] List anything else that you added to improve the site's functionality!
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented required features:
+
+<img src='https://github.com/Nan227/TravelInNewBrunswickNJ/blob/main/travelinnewjerseyNJ/public/ruvisit.jpg' title='thing to do in Rutgers width='' alt='thinh to go in Rutgers />
+
+<!-- Replace this with whatever GIF tool you used! -->
+GIF created with ...  
+
+![Codepathproject1](img src= https://github.com/Nan227/TravelInNewBrunswickNJ/blob/main/travelinnewjerseyNJ/public/ruvisitGf.gif)
+
+## Notes
+
+This app uses only 4 hours due to a midterm exam. I will re-edit it later.
+This app may use pictures from Rutgers websites just for education only.
+
+## License
+
+    Copyright [2024] [Piyaporn Puangprasert]
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
