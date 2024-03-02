@@ -26,12 +26,12 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://github.com/Nan227/TravelInNewBrunswickNJ/blob/main/travelinnewjerseyNJ/public/ruvisit.jpg' title='thing to do in Rutgers width='' alt='thinh to go in Rutgers />
+![thing to visit in rutger](https://github.com/Nan227/TravelInNewBrunswickNJ/blob/main/travelinnewjerseyNJ/public/ruvisit.jpg)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 
-![Codepathproject1](img src= https://github.com/Nan227/TravelInNewBrunswickNJ/blob/main/travelinnewjerseyNJ/public/ruvisitGf.gif)
+![Codepathproject1](https://github.com/Nan227/TravelInNewBrunswickNJ/blob/main/travelinnewjerseyNJ/public/ruvisitGf.gif)
 
 ## Notes
 
